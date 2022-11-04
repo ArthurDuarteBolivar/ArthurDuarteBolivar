@@ -48,7 +48,8 @@
 
                                                                                                                              
 ### Studying in this moment:
-
+ <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+   <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
