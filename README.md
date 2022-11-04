@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot&size=30&pause=5000&width=435&lines=Hello+my+name+is+Arthur+Duarte+I+am+15+years+old+I+am+from+Minas+Gerais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot&size=30&pause=1000&center=true&width=435&lines=Hello+my+name+is+Arthur+;I+am+15+years+old;I+am+from+Minas+Gerais)](https://git.io/typing-svg)
+
 
 <div align="center">  
  <p align="center"> <img height="244" width=45%  src="https://github-readme-stats.vercel.app/api?username=ArthurDuarteBolivar&show_icons=true&theme=gotham&title_color=07EE46&text_color=07EE46&bg_color=000000" alt="Tiago2lucas"/>
