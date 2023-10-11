@@ -21,7 +21,7 @@
 ### Main skills:  :pushpin:
 <div>
    
-            
+   <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />       
    <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
   <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
